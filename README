@@ -1,0 +1,3 @@
+# progcorp
+
+Extracts progressive constructions from PPCHE corpora and the *LOB series corpora (parsed with the Stanford parser) and formats the results into csvs.
